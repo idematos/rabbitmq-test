@@ -1,4 +1,4 @@
-# rabbitmq-test
+## rabbitmq-test
 A simple RabbitMQ microservice to detect potential threats.
 
 **To run this application:** 
