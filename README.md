@@ -1,5 +1,5 @@
 ## rabbitmq-test
-A simple RabbitMQ microservice to detect potential threats.
+This is a Java 8 application that, through asynchronous messages, includes legitimate urls in a whitelist and validates new urls using the whitelist.
 
 ### To run this application:
 
