@@ -1,5 +1,5 @@
 ## RabbitMQ Test
-This is a Java 8 application that includes legitimate URLs in a whitelist and validates new URLs using the whitelist.
+This is an application that adds legitimate URLs in a whitelist and validates new URLs using it.
 
 ### To run this application:
 
